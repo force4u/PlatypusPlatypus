@@ -1,1 +1,15 @@
+Readme
+Platypusドロップレット用スクリプト
+フォルダにアイコンを貼るだけの簡単な物
 
+
+初めて作成したPlatypusアプリ記念に上げておく 
+ 20220211 初回作成
+ 
+以下のソフトウェアを利用しています。
+ライセンス等はそれぞれご確認ください
+Platypus 
+https://github.com/sveinbjornt/Platypus 
+ 
+osascriptの呼び出しはこちらを参考に
+https://quicktimer.cocolog-nifty.com/icefloe/cat76030670/index.html
